@@ -1,2 +1,3 @@
 inputmodule-control_cli_linux
 dotmatrixtool-usbserial/**
+__pycache__/**
